@@ -505,7 +505,7 @@ xclip
 	animation: fadeInDown 700ms;
 	-webkit-backface-visibility: hidden;
 	border-radius: 0px;
-	background : rgb(11 59 6) none repeat;
+	background: rgba(255, 255, 255) none repeat;
 	box-shadow: -1px 1px 1px rgba(0, 0, 0, 0.1);
 }
 
